@@ -8,7 +8,7 @@
 
 ## How To Use
 
-[THIS IS US]()
+[THIS IS US](https://team-introduce.vercel.app/)
 
 1. 위의 결과물 페이지에 접속한다.
 2. 각 팀원별 소개페이지를 살펴본다.
